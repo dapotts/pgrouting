@@ -271,6 +271,7 @@ set(PgRouting_SOURCE_NAMES
 
     "vrp_basic"
     "vrppdtw"
+    "asymtsp"
 
     )
 
